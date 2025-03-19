@@ -7,9 +7,9 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "BHASHI-MD~uywzRAgK#2JKzOSNA1qGJrTy0Sq27dUiRwLYQDHPARV2mGMh9MT4",
+  SESSION_ID: process.env.SESSION_ID || "BHASHI-MD~NqFHRDyY#jsG90o7NFfi_Yh_E1nN2tRIc7JvaZM531eaM4QsmCl0",
 // For extra thing : BHASHI-MD~(megafileid)
-  MONGODB: process.env.MONGODB || "mongodb+srv://herokubot458:QAT5sKzU9JnlXJAS@cluster0.u0w6u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  MONGODB: process.env.MONGODB || "mongodb+srv://kavindachamith13:20060705@cluster0.gcank.mongodb.net",
 
     
  
